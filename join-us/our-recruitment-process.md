@@ -166,15 +166,24 @@ We are always on the look-out for great people to join us so don't hesitate to s
 
 We are currently hiring for the following positions:
 
-- (Bangkok) [Android Developer](openings/bangkok-android-developer.md)
-- (Bangkok) [Business Development Executive](openings/bangkok-business-development-executive.md)
-- (Bangkok) [Internship Software Developer](openings/bangkok-internship-software-developer.md)
-- (Bangkok) [iOS Developer](openings/bangkok-ios-developer.md)
-- (Bangkok) [Senior UX/UI Designer](openings/bangkok-senior-uxui-designer.md)
-- (Bangkok) [Technical Product Owner](openings/bangkok-technical-product-owner.md)
-- (Bangkok) [Web Developer](openings/bangkok-web-developer.md)
-- (Da Nang) [Senior Web Developer](openings/danang-web-developer.md)
-- (HCMC) [Senior UX/UI Designer](openings/hcmc-senior-uxui-designer.md)
-- (HCMC) [Senior Web Developer](openings/hcmc-web-developer.md)
+### Bangkok:
 
-We also advertise additional details and position on [our jobs site](https://jobs.nimblehq.co)
+* Senior Android Developer
+* Senior iOS Developer
+* Senior Web Developer
+* Engineering Lead - iOS
+* Engineering Lead - Web
+* Technical Product Owner
+
+### Ho Chi Minh city
+
+* Senior Android Developer
+* Senior iOS Developer
+* Senior Web Developer
+* Engineering Lead - iOS
+* Engineering Lead - Web
+* Technical Product Owner
+
+### Da Nang
+
+* Technical Product Owner
