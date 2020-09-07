@@ -27,9 +27,17 @@ maintaining a high level of quality. But one needs to accept that change is the 
 We keep our process short and straightforward focusing on actionable and measurable metrics related to the type of work 
 we do. Every candidate will go through the followings stages (in this order):
 
+### Resume Screening
+
+Upon reception of an application, our team will review the resumes to make sure all our basic requisites are covered. What we will be looking for:
+* Relevant experience in a similar role, tech stack, or motivation to switch to a new role if no similar previous experience. 
+* Clarity in presentation format. The resume should be formatted in a way that is intuitive and logical, presenting important information in the most efficient way. Proper use of English is prerequisite.
+
+We should not take more than 1 day to screen, hence you should receive an email from us within 24 hours.
+
 ### Information Form
 
-Upon reception of an application, we ask applicants to fill in an [Airtable](https://airtable.com/)-based information form 
+After a basic resume screening, we ask applicants to fill in an [Airtable](https://airtable.com/)-based information form 
 composed of 8-12 questions customized for each role. We aim to see beyond a resume so this step is very critical to us to 
 know applicants better and understand what they could bring to the team.
 
