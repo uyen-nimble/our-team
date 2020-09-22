@@ -20,7 +20,7 @@ and [Medium](https://medium.com/nimble) accounts.
 Want to see what we have built? Check our selected [portfolio](https://nimblehq.co/work/), 
 [Dribbble](https://dribbble.com/nimblehq) and [Behance](https://www.behance.net/nimblehq) accounts.
 
-# **What you will do**
+## **What you will do**
 
 * You will be an active member *or* have the leading position of the development team in a project squad working with a development Team Lead, a Product Owner and UX/UI Designer.
 * Decide which technologies are going to be used and define the overall architecture.
@@ -32,7 +32,7 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Mentor junior members via pair-programming and sharing your knowledge through team rituals (sprint planning and bi-weekly retrospectives).
 * Collaborate with other team members to define the internal processes and initiatives to help the company accomplish its mission. [Our handbook](https://compass.nimblehq.co/) has been written by the whole team.
 
-# **Why you'll love working here**
+## **Why you'll love working here**
 
 * **You will be proud** of any product that has our name on it.
 * We are an **engineering-focused company**. Both co-founders are software engineers and led the tech teams at the most prominent e-commerce powerhouses in South East Asia.
@@ -54,7 +54,7 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Work from home policy and work from home allowance.
 * Many more perks!
 
-# **Requirements**
+## **What you will bring**
 
 * **5 years or more of professional Android development experience**.
 * Experience in Kotlin is ideal. If you do not have experience in Kotlin, you must be open to learn and work on it.
