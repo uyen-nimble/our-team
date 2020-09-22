@@ -56,7 +56,7 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 
 ### **Requirements**
 
-* **5 years or more of professional Android development experience**. ****
+* **5 years or more of professional Android development experience**.
 * Experience in Kotlin is ideal. If you do not have experience in Kotlin, you must be open to learn and work on it.
 * Experience in writing automated tests for mobile applications.
 * Enjoy working on challenging solutions and systems.
