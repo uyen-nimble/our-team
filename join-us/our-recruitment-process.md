@@ -29,11 +29,11 @@ we do. Every candidate will go through the followings stages (in this order):
 
 ### Resume Screening
 
-Upon reception of an application, our team will review the resumes to make sure all our basic requisites are covered. What we will be looking for:
+Upon reception of an application, our team will review the resumes to make sure all our advertised requirements are covered. What we will be looking for:
 * Relevant experience in a similar role, tech stack, or motivation to switch to a new role if no similar previous experience. 
-* Clarity in presentation format. The resume should be formatted in a way that is intuitive and logical, presenting important information in the most efficient way. Proper use of English is prerequisite.
+* Clarity in presentation format and proper use of English is prerequisite.
 
-We should not take more than 1 day to screen, hence you should receive an email from us within 24 hours.
+You can expect to receive an email from us within two business days.
 
 ### Information Form
 
@@ -41,15 +41,14 @@ After a basic resume screening, we ask applicants to fill in an [Airtable](https
 composed of 8-12 questions customized for each role. We aim to see beyond a resume so this step is very critical to us to 
 know applicants better and understand what they could bring to the team.
 
-As we like to move fast, applicants are invited to submit the form back to us within 2 days following their application.
+As we like to move fast, applicants are invited to submit the form back to us within two days following their application.
 
 ### 1st Interview
 
 Following the review of the information provided in the previous step, we invite short-listed applicants for an interview. 
 It can either be in-person at our office for applicants living in the same country where our office is, or over Skype.
 
-Interview slots are booked via Recruitee so that applicants can pick a time that works best for 
-them. Interviews usually take anywhere between 30 to 60 minutes.
+Interview slots are booked via Recruitee so that applicants can pick a time that works best for them. Interviews usually take anywhere between 30 to 60 minutes.
 
 During this first meet, we blend informal, skills and personality-based questions. At this first stage, we are checking 
 both team-fit and aptitude. The skillset questions do not require any special preparation as we do not do 
@@ -136,7 +135,7 @@ Upon reception of the submission by email, our team usually take anywhere betwee
 
 Our review will be emailed back to you.
 
-#### Talent Managers and Talent Management Associates
+#### Talent Management Associates and Talent Managers
 
 The challenge requires to provide recommendations in two areas: Outreach Activities and  People Operations
 
@@ -179,8 +178,7 @@ We are currently hiring for the following positions:
 * Senior Android Developer
 * Senior iOS Developer
 * Senior Web Developer
-* Engineering Lead - iOS
-* Engineering Lead - Web
+* Engineering Lead
 * Technical Product Owner
 
 ### Ho Chi Minh city
@@ -188,10 +186,15 @@ We are currently hiring for the following positions:
 * Senior Android Developer
 * Senior iOS Developer
 * Senior Web Developer
-* Engineering Lead - iOS
-* Engineering Lead - Web
+* Engineering Lead
 * Technical Product Owner
 
 ### Da Nang
 
+* Talent Manager
+* Senior Android Developer
+* Senior iOS Developer
+* Senior Web Developer
+* Engineering Lead
 * Technical Product Owner
+
