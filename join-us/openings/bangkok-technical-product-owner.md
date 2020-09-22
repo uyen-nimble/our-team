@@ -33,11 +33,12 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 
 * **You will be proud** of any product that has our name on it.
 * We are an **engineering-focused company**. Both co-founders are software engineers and led the tech teams at the most prominent e-commerce powerhouses in South East Asia.
-* We really pay attention and care about **processes, high quality, and aesthetics.**
-* **Strong processes.** We not only believe but also really work following agile principles. Developers work on well-sized and well-defined user stories, do estimate using points and work iteratively in short sprints (1-2 weeks).
-* Regular one-on-one reviews to constantly **improve and grow.** We have a clearly defined process for our developers to level up continuously not only their technical skills but also soft skills.
+* We really pay attention and care about **processes, high quality, and aesthetics**.
+* **Strong processes**. We not only believe but also really work following agile principles. Developers work on well-sized and well-defined user stories, do estimate using points and work iteratively in short sprints (1-2 weeks).
+* Regular one-on-one reviews to constantly **improve and grow**. We have a clearly defined process for our developers to level up continuously not only their technical skills but also soft skills.
 * **The vast amount of learning resources** (Pluralsight, Pragpub, Leanpub, (e-)books, etc.) and yearly education allowance to step up your game.
-* Provident Fund which allows you to save money every month and we match your monthly contributions [see more detailed info](http://capital.sec.or.th/THAIPVD/content_en.php?content_id=00307).
+* **[Nimble Growth](https://github.com/nimblehq/growth) session** to invest time in acquiring new skills, work on new technology to improve our process, and share the achievements.
+* Provident Fund which allows you to save money every month and we match your monthly contributions ([see more detailed info](http://capital.sec.or.th/THAIPVD/content_en.php?content_id=00307)).
 * Private medical insurance (Allianz) **from day one**, company care fund and social welfare coverage.
 * Great equipment consisting of a MacBook Pro, large screens, and any accessory to let you work comfortably. Our equipment is renewed every 3 years.
 * Casual work attire for everyone.
@@ -47,6 +48,7 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * 25 days of paid leaves/year (13 public holidays + 12 personal days).
 * Sabbatical month every 3 years.
 * Company outing every year.
+* Work from home policy and work from home allowance.
 * Many more perks!
 
 ## What you will bring
@@ -61,7 +63,7 @@ Want to see what we have built? Check our selected [portfolio](https://nimblehq.
 * Ability to organize your own work and create work for others.
 * Looking for a leadership role, hence soft skills such as negotiation and evaluating/proposing creative alternatives are required.
 * Very articulate, opinionated, decisive and is at ease to interact with clients.
-* Willing to relocate to Bangkok, Thailand.
+* Currently located in Thailand, or within a 2-hour timezone differences if in a different country.
 
 ## How to apply
 
